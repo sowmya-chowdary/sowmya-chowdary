@@ -7,7 +7,7 @@
 - 💼 Currently interning at ApexPlanet
 - 🌱 Learning: Java, Spring Boot, SQL, HTML, CSS, JavaScript
 - 👩‍💻 Building real-world projects like Amazon Clone, Rock Paper Scissors Game
-- 📫 Reach me at: your.email@example.com
+- 📫 Reach me at: sowmyachowdary2004@gmail.com
 
 ## 🔧 Tech Stack
 - 💻 Languages: Java, Python, HTML, CSS, JavaScript
