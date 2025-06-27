@@ -1,16 +1,22 @@
 ## Hi there 👋
+# Hi, I'm Sowmya 👋
 
-<!--
-**sowmya-chowdary/sowmya-chowdary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Aspiring Full Stack Java Developer | 🚀 Tech Enthusiast | 💡 Lifelong Learner
 
-Here are some ideas to get you started:
+## 🌟 About Me
+- 💼 Currently interning at ApexPlanet
+- 🌱 Learning: Java, Spring Boot, SQL, HTML, CSS, JavaScript
+- 👩‍💻 Building real-world projects like Amazon Clone, Rock Paper Scissors Game
+- 📫 Reach me at: your.email@example.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- 💻 Languages: Java, Python, HTML, CSS, JavaScript
+- 🛠️ Tools: VS Code, Git, GitHub, MySQL, Postman
+- ⚙️ Frameworks: Spring Boot (learning in progress)
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sowmya-chowdary&show_icons=true&theme=radical)
+
+## 🔗 Let's Connect
+[LinkedIn](https://www.linkedin.com/in/sowmya-chowdary) | [GitHub](https://github.com/sowmya-chowdary)
+
