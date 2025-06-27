@@ -18,5 +18,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sowmya-chowdary&show_icons=true&theme=radical)
 
 ## 🔗 Let's Connect
-[LinkedIn](https://www.linkedin.com/in/sowmya-chowdary) | [GitHub](https://github.com/sowmya-chowdary)
+[LinkedIn](https://www.linkedin.com/in/sowmyachowdary2004) | [GitHub](https://github.com/sowmya-chowdary)
 
