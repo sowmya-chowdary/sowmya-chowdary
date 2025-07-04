@@ -1,4 +1,4 @@
-# Hi, I'm Sowmya 👋
+# Hi,there I'm Sowmya 👋
 
 🎓 Aspiring Full Stack Java Developer | 🚀 Tech Enthusiast | 💡 Lifelong Learner
 
